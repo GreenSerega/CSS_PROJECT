@@ -1,3 +1,14 @@
 .main-heading{
-  color:blueviolet;
+  color:blue ;
+  background-color:#cccccc;
+  font-size: 28px;}
+  .heading-art{
+  color:yellow;
+  background-color:purple ;
+}
+p{
+  font-size: 16px;
+  line-height: 1.2em;
+  background-color:#eeeeee;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
