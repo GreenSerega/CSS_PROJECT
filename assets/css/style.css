@@ -1,14 +1,26 @@
 .main-heading{
-  color:blue ;
-  background-color:#cccccc;
-  font-size: 28px;}
-  .heading-art{
-  color:yellow;
-  background-color:purple ;
+  color:white;
+  background-color:darkslategrey;
+  font-size: 28px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  text-transform:capitalize;
+}
+.heading-art.format-text{
+  color:chocolate;
+}
+.format-text{
+  text-align:right;
+  color:blue;
+}
+.heading-art{
+  color:blue;
+background-color:chartreuse;
+text-align: center;
 }
 p{
   font-size: 16px;
-  line-height: 1.2em;
-  background-color:#eeeeee;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.25em;
+  background-color: #eeeeee;
+  font-family:'Times New Roman', Times, serif;
 }
