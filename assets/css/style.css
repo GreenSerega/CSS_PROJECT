@@ -1,12 +1,12 @@
 .img{
   display: block;
   width: 200px;
-  box-sizing: border-box;
-  height: 200px;
   border: 5px solid red;
-  border-left-color: aqua;
-  border-bottom-style: dotted;
-  padding: 15px 0 0 15;
-  padding-top: 0;
-  margin: 20px;
+  padding: 15px;
+  margin: 50px 20px;
+  margin-top: 20px;
+}
+.neg-margin{
+  margin-top: -20px;
+  border: 5px solid blue;
 }
