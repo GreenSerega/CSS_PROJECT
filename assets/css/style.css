@@ -1,12 +1,14 @@
 .img{
-  display: block;
-  width: 200px;
-  border: 5px solid red;
-  padding: 15px;
-  margin: 50px 20px;
-  margin-top: 20px;
+  width: 600px;
+  height: 600px;
+  box-sizing: border-box;
+  padding: 8px;
+  border: 1px solid grey;
+  margin: 5px;
+  border-radius: 30%;
+  object-fit: cover;
 }
-.neg-margin{
-  margin-top: -20px;
-  border: 5px solid blue;
+.img-portret{
+  object-position: top;
+
 }
